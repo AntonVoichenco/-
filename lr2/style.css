@@ -34,7 +34,7 @@ background-color:#EEF0F1;
     float: left;
     display: block;
     width: 200px;
-    margin: 70px 80px 0px 260px;
+    margin: 70px 0px 0px 20%;
     border-radius: 20px;
     padding: 10px 0px 20px 10px;
     }
@@ -45,7 +45,7 @@ background-color:#EEF0F1;
     float: left;
     display: block;
     width: 200px;
-    margin: 70px 80px 0px 30px;
+    margin: 70px 0px 0px 8%;
     border-radius: 20px;
     padding: 10px 0px 60px 10px;
     }
@@ -55,7 +55,7 @@ background-color:#EEF0F1;
     float: left;
      display: block;
     width: 200px;
-     margin: 70px 80px 0px 30px;
+     margin: 70px 0px 0px 10%;
      border-radius: 20px;
      padding: 10px 10px 40px 10px;
    }
