@@ -9,6 +9,7 @@ background-color:#EEF0F1;
 }
 .login{
     background-color: #FFC000;
+
     color: white;
     width: 100px;
     padding: 0 0 0 10px;
@@ -67,6 +68,21 @@ background-color:#EEF0F1;
     padding: 0px 0px 70px 0px;
    }
 .silk{
+    padding: 10px 0px 0px 0px;
+    text-align: center;
+    color: white;
+}
+.inst{
+    text-decoration-color: white;
+    text-align: center;
+    word-spacing: 15px;
+}
+a {
+    font-size: 24px;
+    color: white;
+    text-decoration: none;
+  }
+  
     padding: 10px 0px 0px 0px;
     text-align: center;
     color: white;
