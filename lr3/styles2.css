@@ -1,0 +1,95 @@
+.container {
+    display: flex;
+  }
+  
+  .section1, .section2 {
+    padding: 17vh;
+    margin-bottom: 20px;
+    height: 120vh;
+    width: 50%;
+  }
+  .section1 {
+    background-image: url("img/side_background2.svg");
+    background-size: cover;
+    background-position: center; 
+  }
+  .section2{
+    text-align: center;
+    background-color: white;
+  }
+  body{
+    background-color: rgb(145, 145, 145);
+    font-family: 'Roboto', sans-serif;
+  }
+  .blur-background {
+    background-color: rgba(255, 255, 255, 0.5);
+      border-radius: 8px;
+  }
+  .new-section{
+    padding-top : 3vh;
+    padding-left: 3vh;
+    padding-right: 3vh;
+    padding-bottom: 10vh;
+    backdrop-filter: blur(3px); 
+    background-color: rgba(255, 255, 255, 0.293); 
+    border-radius: 5px;
+      
+  }
+  .text-split {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .text-left {
+    text-align: left;
+  }
+  
+  .text-right {
+    text-align: right;
+  }
+  a{
+    text-decoration: none;
+    border-radius: 50px;
+  }
+  .arrow{
+    color: black;
+  }
+  .logo{
+ text-align: center;
+  }
+  h1{
+    text-align: center;
+    color: white;
+  }
+  .pay{
+    
+    padding: 1vh  19vh ;
+    background-color:  #03A9F4;
+    text-align: center;
+    color: white;
+    border-radius: 5px ;
+  }
+  .paypal{
+    padding: 1vh  15vh ;
+    background-color:  #03A9F4;
+    text-align: center;
+    color: white;
+    border-radius: 5px ;
+  }
+  #cardNumber, #email, #cardName, #country{
+    width: 54vh;
+    height: 5vh;
+  }
+  #cvv, #expiryDate{
+    height: 5vh;
+    width:26vh ;
+  }
+  .text-left-line{
+    padding-right:36vh ;
+  }
+  .text-left-line-1{
+    padding-right:39vh ;
+  }
+  .text-left-line-2{
+    padding-right:49vh ;
+  }
